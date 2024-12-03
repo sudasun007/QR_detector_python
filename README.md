@@ -38,10 +38,6 @@ pip install pyzbar opencv-python pillow
 - **Clipboard**: Copy the decoded result to the clipboard for easy use.
 - **Browser**: Open detected URLs directly in the default web browser.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Credits
 
 - **Tkinter** for GUI development
